@@ -59,9 +59,9 @@ Whether you need a fully managed cloud solution like **GitHub Actions**, **GitLa
 
 Below is a curated list of top production-ready open-source continuous integration and delivery engines. 
 
-*Sorted by GitHub Star Count (descending).*
+*Sorted by GitHub Stars_Count (descending).*
 
-| Repository | Description | Stars |
+| Repository | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Drone CI](https://github.com/drone/drone)** 🚁 | Lightweight container-native CI/CD server written in Go with easy YAML pipeline definitions. | [<img src="https://img.shields.io/github/stars/drone/drone?style=social&color=white" alt="Drone Stars"/>](https://github.com/drone/drone/stargazers) |
 | **[Jenkins](https://github.com/jenkinsci/jenkins)** 🎷 | The most widely deployed open-source automation server with 1,800+ plugins for any ecosystem. | [<img src="https://img.shields.io/github/stars/jenkinsci/jenkins?style=social&color=white" alt="Jenkins Stars"/>](https://github.com/jenkinsci/jenkins/stargazers) |
@@ -84,7 +84,7 @@ Contributions are very welcome! To add or update an entry:
 
 1. 🍴 **Fork** the repository.
 2. 📝 Edit `README.md` following the exact table structure.
-3. 🚀 Ensure links, pricing, free tier details, and star badges are accurate.
+3. 🚀 Ensure links, pricing, free tier details, and Stars_Badges are accurate.
 4. 📬 Submit a **Pull Request** with a brief summary of additions.
 
 Please review the [Awesome List Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) before submitting.
